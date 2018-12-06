@@ -1,0 +1,2 @@
+sudo docker build -f ./TF1.9GPU-PY35-CV2.Dockerfile -t k2vision/tf19gpu_py35_cv2:v1.0 .
+sudo docker build -f ./TF1.9CPU-PY35-CV2.Dockerfile -t k2vision/tf19cpu_py35_cv2:v1.0 .
